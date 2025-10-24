@@ -6,7 +6,7 @@ public class Main {
         double angka1, angka2, hasil;
         char operator;
 
-        System.out.println("=== Kalkulator Sederhana (Tambah & Kurang) ===");
+        System.out.println("=== Kalkulator  (Tambah & Kurang) ===");
 
         // Meminta input angka pertama
         System.out.print("Masukkan angka pertama: ");

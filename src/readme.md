@@ -1,15 +1,15 @@
-# 🧮 Kalkulator Dasar Interaktif Java
+#  Kalkulator Dasar Interaktif Java
 
 Sebuah proyek Java sederhana yang mengimplementasikan *kalkulator interaktif* untuk operasi aritmatika dasar: *Penambahan (+)* dan *Pengurangan (-)*. Program ini memanfaatkan kelas Scanner untuk mengambil input dari pengguna dan struktur switch-case untuk menentukan operasi yang akan dilakukan.
 
-## 🛠 Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 * *Bahasa Pemrograman:* Java
 * *JDK:* Minimal Java 8 atau lebih tinggi
 
 ***
 
-## 🚀 Cara Menjalankan Program
+##  Cara Menjalankan Program
 
 ### 1. Kompilasi dan Eksekusi (Menggunakan Terminal)
 
@@ -33,7 +33,7 @@ Asumsikan nama file kelas utamanya adalah KalkulatorInteraktif.java.
 
 ***
 
-## ⚙ Cara Penggunaan
+## Cara Penggunaan
 
 Setelah program dijalankan, ikuti petunjuk interaktif di konsol:
 
